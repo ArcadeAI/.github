@@ -31,7 +31,12 @@ Core OSS libraries:
 
 Products:
 - [`Arcade Engine Cloud`](https://api.arcade.com) - Platform for building, hosting, managing your tools for your agents.
-- [`Arcade Engine Enterprise`](https://api.arcade.com) - Same as cloud available on `brew`, `apt`, `docker` 
+- [`Arcade Engine Enterprise`](https://api.arcade.com) - Full platform available on `brew`, `apt`, `docker`, `k8s`, and more 
+
+Agent Integrations
+- [`Langgraph/Langchain`](https://github.com/ArcadeAI/arcade-ai/tree/main/contrib/langchain)
+- [`CrewAI`](https://github.com/ArcadeAI/arcade-ai/tree/main/contrib/crewai)
+- [`OpenAI Agents`](https://github.com/ArcadeAI/openai-agents-arcade)
 
 Sample Apps using Arcade:
 - [`Slack Agent`](https://github.com/ArcadeAI/SlackAgent) - Langgraph Agent with Arcade Tools right in your slack
