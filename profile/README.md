@@ -37,6 +37,7 @@ Sample Apps using Arcade:
 - [`Slack Agent`](https://github.com/ArcadeAI/SlackAgent) - Langgraph Agent with Arcade Tools right in your slack
 - [`Vulcan`](https://github.com/ArcadeAI/vulcan) - A multipurpose chatbot built to assist with everyday life.
 - [`Social Media Agents`](https://github.com/langchain-ai/social-media-agent) - An agent and curates and populates your social media autonomously.
+- [`Vercel ChatGPT + Tools Template`](https://github.com/arcadeai/arcade-chatbot) - A fully featured chat agent w/ Arcade tools as a template deployable on Vercel
 
 ## Learn more
 
