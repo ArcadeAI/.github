@@ -17,7 +17,7 @@
 
 <p align="center" style="display: flex; justify-content: center; gap: 5px; font-size: 15px;">
     <a href="https://docs.arcade.dev/home" target="_blank">Documentation</a> •
-    <a href="https://docs.arcade.dev/tools" target="_blank">Integrations</a> •
+    <a href="https://docs.arcade.dev/toolkits" target="_blank">Integrations</a> •
     <a href="https://docs.arcade.dev/home/quickstart" target="_blank">Quickstart</a> •
     <a href="https://docs.arcade.dev/home/contact-us" target="_blank">Contact Us</a>
 
@@ -27,12 +27,12 @@
 
 Core OSS libraries:
 - [`Tool SDK and CLI`](https://github.com/arcadeai/arcade-ai) The SDK for building agent tools and a CLI for testing, evaling, and deploying them.
-- [`ArcadePy`](https://github.com/arcadeai/arcadepy) - The Official Python Client for Arcade
-- [`ArcadeJs`](https://github.com/arcadeai/arcadejs) - The Official Typescript client for Arcade
+- [`ArcadePy`](https://github.com/arcadeai/arcade-py) - The Official Python Client for Arcade
+- [`ArcadeJs`](https://github.com/arcadeai/arcade-js) - The Official Typescript client for Arcade
 
 Products:
-- [`Arcade Engine Cloud`](https://api.arcade.com) - Platform for building, hosting, managing your tools for your agents.
-- [`Arcade Engine Enterprise`](https://api.arcade.com) - Same as cloud available on `brew`, `apt`, `docker` 
+- [`Arcade Engine Cloud`](https://api.arcade.dev) - Platform for building, hosting, managing your tools for your agents.
+- [`Arcade Engine Enterprise`](https://api.arcade.dev) - Same as cloud available on `brew`, `apt`, `docker` 
 
 Sample Apps using Arcade:
 - [`Slack Agent`](https://github.com/ArcadeAI/SlackAgent) - Langgraph Agent with Arcade Tools right in your slack
@@ -43,7 +43,7 @@ Sample Apps using Arcade:
 
 - [Company website](https://arcade.dev)
 - [Documentation](https://docs.arcade.dev)
-- [API Documentation](https://referece.arcade.dev)
+- [API Documentation](https://reference.arcade.dev)
 
 <div align="center">
   <p align="center" style="display: flex; justify-content: center; gap: 10px;">
