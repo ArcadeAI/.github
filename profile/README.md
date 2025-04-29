@@ -2,8 +2,8 @@
 
  <h3 align="center"> 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArcadeAI/.github/refs/heads/main/profile/assets/new_arcade_logo_black.svg" height="110">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArcadeAI/.github/refs/heads/main/profile/assets/new_arcade_logo_white.svg" height="110">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArcadeAI/.github/refs/heads/main/profile/assets/new_arcade_logo_white.svg" height="110">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArcadeAI/.github/refs/heads/main/profile/assets/new_arcade_logo_black.svg" height="110">
     <img alt="Fallback image description" src="https://raw.githubusercontent.com/ArcadeAI/.github/refs/heads/main/profile/assets/new_arcade_logo_black.svg">
   </picture>
 </h3>
