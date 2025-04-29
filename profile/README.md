@@ -2,7 +2,7 @@
 
  <h3 align="center"> 
   <img
-    src="[https://github.com/user-attachments/assets/59186755-eb8d-4aec-a777-138192ecf7c8](https://github.com/user-attachments/assets/91e34700-3d19-4a17-af17-13a7e1502ff3)"
+    src="https://raw.githubusercontent.com/ArcadeAI/.github-private/refs/heads/main/profile/assets/new_arcade_logo_black.svg?token=GHSAT0AAAAAADCHGYJLCDQL5HKUXAFBWP3K2ARC4HA"
     height="110"
   />
 </h3>
