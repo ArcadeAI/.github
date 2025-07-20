@@ -27,18 +27,28 @@
 <br>
 
 Core OSS libraries:
-- [`Tool SDK and CLI`](https://github.com/arcadeai/arcade-ai) The SDK for building agent tools and a CLI for testing, evaling, and deploying them.
+- [`Tool Development Kit`](https://github.com/arcadeai/arcade-ai) Library for building agent tools and a CLI for testing, evaluating, and deploying them.
 - [`ArcadePy`](https://github.com/arcadeai/arcade-py) - The Official Python Client for Arcade
 - [`ArcadeJs`](https://github.com/arcadeai/arcade-js) - The Official Typescript client for Arcade
+- [`ArcadeGo`](https://github.com/arcadeai/arcade-go) - The Official Go client for Arcade
+
+Framework Integrations
+- [`Langchain`](https://docs.arcade.dev/home/langchain/use-arcade-tools) 
+- [`Vercel ai sdk`](https://docs.arcade.dev/home/vercelai/use-arcade-tools)
+- [`OpenAI Agents`](https://github.com/ArcadeAI/openai-agents-arcade)
+- [`CrewAI`](https://docs.arcade.dev/home/crewai/use-arcade-tools)
+- [`Mastra`](https://docs.arcade.dev/home/mastra/overview)
+- [`Google ADK`](https://docs.arcade.dev/home/google-adk/overview) 
 
 Products:
 - [`Arcade Engine Cloud`](https://api.arcade.dev) - Platform for building, hosting, managing your tools for your agents.
 - [`Arcade Engine Enterprise`](https://api.arcade.dev) - Same as cloud available on `brew`, `apt`, `docker` 
 
-Sample Apps using Arcade:
+Examples:
+- [`chat.arcade.dev`](https://chat.arcade.dev) - Multi-purpose agent that syncs with api.arcade.dev so you can try every tool including your own.
 - [`Slack Agent`](https://github.com/ArcadeAI/SlackAgent) - Langgraph Agent with Arcade Tools right in your slack
-- [`Vulcan`](https://github.com/ArcadeAI/vulcan) - A multipurpose chatbot built to assist with everyday life.
 - [`Social Media Agents`](https://github.com/langchain-ai/social-media-agent) - An agent and curates and populates your social media autonomously.
+- [`Agent TODO`](https://github.com/ArcadeAI/agentic-todo-app) - Starter app showing how to use tools to manage a todo list with Google integrations.
 
 ## Learn more
 
