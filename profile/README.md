@@ -14,13 +14,7 @@
 <br/>
 
 <div align="center">
-  <table border="0">
-    <tr><td bgcolor="black">&nbsp;</td></tr>
-    <tr><td bgcolor="black">
-      <img src="assets/arcade-hero.webp" alt="Arcade Hero" />
-    </td></tr>
-    <tr><td bgcolor="black">&nbsp;</td></tr>
-  </table>
+  <img src="assets/arcade-hero-bordered.webp" alt="Arcade Hero" />
 </div>
 
 ## Documentation
