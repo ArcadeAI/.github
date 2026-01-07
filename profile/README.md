@@ -14,7 +14,7 @@
 <br/>
 
 <div align="center">
-  <video src="assets/arcade-hero.mp4" autoplay loop muted playsinline></video>
+  <img src="assets/arcade-hero.webp" alt="Arcade Hero" />
 </div>
 
 ## Documentation
