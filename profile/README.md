@@ -1,59 +1,37 @@
 
-
- <h3 align="center"> 
+<h3 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArcadeAI/.github/refs/heads/main/profile/assets/new_arcade_logo_white.svg" height="110">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArcadeAI/.github/refs/heads/main/profile/assets/new_arcade_logo_black.svg" height="110">
     <img alt="Fallback image description" src="https://raw.githubusercontent.com/ArcadeAI/.github/refs/heads/main/profile/assets/new_arcade_logo_black.svg">
   </picture>
-</h3>
-
+  </h3>
 
 <h3 align="center">
   <p>Build agents that actually do sh**</p>
 </h3>
 
-![diagram](https://github.com/user-attachments/assets/1a567e5f-d6b4-4b1e-9918-c401ad232ebb)
+<br/>
 
+<div align="center">
+  <video src="assets/arcade-hero.mp4" autoplay loop muted playsinline></video>
+</div>
 
-<p align="center" style="display: flex; justify-content: center; gap: 5px; font-size: 15px;">
-    <a href="https://docs.arcade.dev/home" target="_blank">Documentation</a> •
-    <a href="https://docs.arcade.dev/toolkits" target="_blank">Integrations</a> •
-    <a href="https://docs.arcade.dev/home/quickstart" target="_blank">Quickstart</a> •
-    <a href="https://docs.arcade.dev/home/contact-us" target="_blank">Contact Us</a>
+## Documentation
 
-<br>
-<br>
-<br>
+- [Get Started](https://docs.arcade.dev/en/get-started/about-arcade) - Setup, API keys, and quickstarts
+- [Guides](https://docs.arcade.dev/en/guides/tool-calling) - Tool calling, creation, agent frameworks, and deployment
+- [Resources](https://docs.arcade.dev/en/resources/integrations) - Integrations, examples, tools, and FAQ
+- [References](https://docs.arcade.dev/en/references) - API docs and CLI reference
+- [Learn](https://docs.arcade.dev/en/learn/server-level-vs-tool-level-auth) - Authorization patterns and concepts
 
-Core OSS libraries:
-- [`Tool Development Kit`](https://github.com/arcadeai/arcade-ai) Library for building agent tools and a CLI for testing, evaluating, and deploying them.
-- [`ArcadePy`](https://github.com/arcadeai/arcade-py) - The Official Python Client for Arcade
-- [`ArcadeJs`](https://github.com/arcadeai/arcade-js) - The Official Typescript client for Arcade
-- [`ArcadeGo`](https://github.com/arcadeai/arcade-go) - The Official Go client for Arcade
+## MCP Servers
 
-Framework Integrations
-- [`Langchain`](https://docs.arcade.dev/home/langchain/use-arcade-tools) 
-- [`Vercel ai sdk`](https://docs.arcade.dev/home/vercelai/use-arcade-tools)
-- [`OpenAI Agents`](https://github.com/ArcadeAI/openai-agents-arcade)
-- [`CrewAI`](https://docs.arcade.dev/home/crewai/use-arcade-tools)
-- [`Mastra`](https://docs.arcade.dev/home/mastra/overview)
-- [`Google ADK`](https://docs.arcade.dev/home/google-adk/overview) 
+Arcade builds, evals, and maintains thousands of MCP tools for popular services.  See the [list of arcade MCP Servers](https://docs.arcade.dev/en/resources/integrations).
 
-Products:
-- [`Arcade Engine Cloud`](https://api.arcade.dev) - Platform for building, hosting, managing your tools for your agents.
-- [`Arcade Engine Enterprise`](https://api.arcade.dev) - Same as cloud available on `brew`, `apt`, `docker` 
-
-Examples:
-- [`chat.arcade.dev`](https://chat.arcade.dev) - Multi-purpose agent that syncs with api.arcade.dev so you can try every tool including your own.
-- [`Slack Agent`](https://github.com/ArcadeAI/SlackAgent) - Langgraph Agent with Arcade Tools right in your slack
-- [`Social Media Agents`](https://github.com/langchain-ai/social-media-agent) - An agent and curates and populates your social media autonomously.
-- [`Agent TODO`](https://github.com/ArcadeAI/agentic-todo-app) - Starter app showing how to use tools to manage a todo list with Google integrations.
-
-## Learn more
+## Links
 
 - [Company website](https://arcade.dev)
-- [Documentation](https://docs.arcade.dev)
 - [API Documentation](https://reference.arcade.dev)
 
 <div align="center">
