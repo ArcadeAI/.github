@@ -14,7 +14,12 @@
 <br/>
 
 <div align="center">
-  <img src="assets/arcade-hero-bordered.webp" alt="Arcade Hero" />
+  <a href="assets/arcade-hero.mp4">
+    <picture>
+      <source srcset="assets/arcade-hero.webp" type="image/webp" />
+      <img src="assets/arcade-hero-still.png" alt="Arcade Hero (click to watch)" width="900" />
+    </picture>
+  </a>
 </div>
 
 ## Documentation
