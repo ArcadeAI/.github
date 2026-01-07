@@ -7,14 +7,20 @@
   </picture>
   </h3>
 
-<h3 align="center">
+<h3 align="center" border=10>
   <p>Build agents that actually do sh**</p>
 </h3>
 
 <br/>
 
 <div align="center">
-  <img src="assets/arcade-hero.webp" alt="Arcade Hero" />
+  <table border="0">
+    <tr><td bgcolor="black">&nbsp;</td></tr>
+    <tr><td bgcolor="black">
+      <img src="assets/arcade-hero.webp" alt="Arcade Hero" />
+    </td></tr>
+    <tr><td bgcolor="black">&nbsp;</td></tr>
+  </table>
 </div>
 
 ## Documentation
