@@ -13,8 +13,8 @@
 
 <br/>
 
-<div align="center">
-  <img src="assets/arcade-hero.webp" alt="Arcade Hero" />
+<div align="center" style="background: #000; border: 1px solid #333; border-radius: 12px; padding: 24px; max-width: 1200px; margin: 0 auto;">
+  <img src="assets/arcade-hero.webp" alt="Arcade Hero" style="width: 100%; height: auto; display: block;" />
 </div>
 
 ## Documentation
