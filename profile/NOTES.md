@@ -17,16 +17,7 @@ brew install ffmp
 ffmp input-video.mp4 profile/assets/arcade-hero.webp
 ```
 
-Parameters:
-- `-i input-video.mp4`: Input video file
-- `-vcodec libwebp`: Use WebP codec
-- `-filter:v fps=fps=30`: Set frame rate to 30 fps
-- `-lossless 0`: Use lossy compression (smaller file size)
-- `-compression_level 6`: Compression level (0-6, higher = slower but smaller)
-- `-q:v 50`: Quality setting (0-100, higher = better quality)
-- `-loop 0`: Loop animation infinitely
-- `-an`: Remove audio
-- `-vsync 0`: Disable frame sync
+This converts the MP4 video to an animated WebP file.
 
 ## Creating the Bordered Hero Video
 
